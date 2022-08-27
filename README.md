@@ -1,3 +1,3 @@
 # Demo HTML
 
-Live: https://mhaidarhanif.github.io/demo-html
+Live: https://haidar-demo-html.vercel.app
